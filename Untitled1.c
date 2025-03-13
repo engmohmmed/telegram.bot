@@ -4,7 +4,7 @@ import requests
 app = Flask(name)
 
 TOKEN = "7709036943:AAGbf3S8dmulC0knnIaNXJrVn2MoQ4r2yJI"
-CHAT_ID = "GPS110bot"
+CHAT_ID = "7326032837"
 
 @app.route('/')
 def track_location():
